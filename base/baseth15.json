@@ -1,0 +1,31 @@
+[
+    {
+        "id": 1,
+        "link": "https://link.clashofclans.com/id?action=OpenLayout&id=TH15%3AWB%3AAAAATQAAAAH5Q1KDR2faEPAaHPzeLRt9",
+        "th": 15,
+        "base_type": [
+            "war base",
+            "cwl base"
+        ],
+        "image": "1769615500526-367373643.jpg",
+        "author": {
+            "name": "oxi",
+            "tag": "#00000f"
+        }
+    },
+    {
+        "id": 2,
+        "link": "https://link.clashofclans.com/id?action=OpenLayout&id=TH15%3AWB%3AAAAASAAAAAISH_Ev74dtVs2rBD9mtR50",
+        "th": 15,
+        "base_type": [
+            "looting base",
+            "war base",
+            "hybrid base"
+        ],
+        "image": "1769615573804-436881510.jpg",
+        "author": {
+            "name": "oxi",
+            "tag": "#00000f"
+        }
+    }
+]

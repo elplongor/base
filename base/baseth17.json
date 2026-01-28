@@ -1,0 +1,157 @@
+[
+    {
+        "id": 1,
+        "link": "https://link.clashofclans.com/id?action=OpenLayout&id=TH17%3AWB%3AAAAAAAAAAAMSKDvoD9mL_6z-cWYD38eP",
+        "th": 17,
+        "base_type": [
+            "war base",
+            "cwl base",
+            "circle base",
+            "hybrid base"
+        ],
+        "image": "1769614068455-136045303.jpg",
+        "author": {
+            "name": "noe",
+            "tag": "#000000"
+        }
+    },
+    {
+        "id": 2,
+        "link": "https://link.clashofclans.com/id?action=OpenLayout&id=TH17%3AWB%3AAAAAAAAAAAMTCLfXyRRrhULjbqm_vqz6",
+        "th": 17,
+        "base_type": [
+            "war base",
+            "cwl base"
+        ],
+        "image": "1769614115688-642576590.jpg",
+        "author": {
+            "name": "noe",
+            "tag": "#000000"
+        }
+    },
+    {
+        "id": 3,
+        "link": "https://link.clashofclans.com/id?action=OpenLayout&id=TH17%3AHV%3AAAAAAAAAAAMTCMYpshUFYvHr7vONZB1r",
+        "th": 17,
+        "base_type": [
+            "troll base"
+        ],
+        "image": "1769614169203-213358938.jpg",
+        "author": {
+            "name": "noe",
+            "tag": "#000000"
+        }
+    },
+    {
+        "id": 4,
+        "link": "https://link.clashofclans.com/id?action=OpenLayout&id=TH17%3AHV%3AAAAAAAAAAAMTCMgLdRKZ_rom80V4K5wp",
+        "th": 17,
+        "base_type": [
+            "looting base",
+            "war base",
+            "hybrid base"
+        ],
+        "image": "1769614221420-365197700.jpg",
+        "author": {
+            "name": "noe",
+            "tag": "#000000"
+        }
+    },
+    {
+        "id": 5,
+        "link": "https://link.clashofclans.com/id?action=OpenLayout&id=TH17%3AWB%3AAAAAAAAAAAMTCOnqfygvdpwis_inaSFs",
+        "th": 17,
+        "base_type": [
+            "war base",
+            "cwl base",
+            "hybrid base"
+        ],
+        "image": "1769614273463-897627196.jpg",
+        "author": {
+            "name": "noe",
+            "tag": "#000000"
+        }
+    },
+    {
+        "id": 6,
+        "link": "https://link.clashofclans.com/id?action=OpenLayout&id=TH17%3AWB%3AAAAAAAAAAAMTCPU-tZ27Q4RhaJw8al9O",
+        "th": 17,
+        "base_type": [
+            "war base",
+            "cwl base"
+        ],
+        "image": "1769614318837-980903635.jpg",
+        "author": {
+            "name": "noe",
+            "tag": ""
+        }
+    },
+    {
+        "id": 7,
+        "link": "https://link.clashofclans.com/id?action=OpenLayout&id=TH17%3AHV%3AAAAAAAAAAAMTCQ19TUawHooxLGRhNIWE",
+        "th": 17,
+        "base_type": [
+            "looting base",
+            "troll base",
+            "cool base"
+        ],
+        "image": "1769614351438-876831511.jpg",
+        "author": {
+            "name": "noe",
+            "tag": "#000000"
+        }
+    },
+    {
+        "id": 8,
+        "link": "https://link.clashofclans.com/id?action=OpenLayout&id=TH17%3AHV%3AAAAAAAAAAAMTCR0U6hnFsE1-bg9z-auw",
+        "th": 17,
+        "base_type": [
+            "troll base",
+            "cool base"
+        ],
+        "image": "1769614404350-312608349.jpg",
+        "author": {
+            "name": "noe",
+            "tag": "#000000"
+        }
+    },
+    {
+        "id": 9,
+        "link": "https://link.clashofclans.com/id?action=OpenLayout&id=TH17%3AWB%3AAAAAAAAAAAMSKDvoD9mL_6z-cWYD38eP",
+        "th": 17,
+        "base_type": [
+            "cool base"
+        ],
+        "image": "1769614433385-75181168.jpg",
+        "author": {
+            "name": "noe",
+            "tag": "#000000"
+        }
+    },
+    {
+        "id": 10,
+        "link": "clashofclans://action=OpenLayout&id=TH17%3AWB%3AAAAAVgAAAAHGHxSbKLqiqKRp7UnHSzjd",
+        "th": 17,
+        "base_type": [
+            "cool base"
+        ],
+        "image": "1769615273966-499034160.jpg",
+        "author": {
+            "name": "noe",
+            "tag": "#000000"
+        }
+    },
+    {
+        "id": 11,
+        "link": "https://link.clashofclans.com/en?action=OpenLayout&id=TH17%3AWB%3AAAAAVgAAAAHGHxSbKLqiqKRp7UnHSzjd",
+        "th": 17,
+        "base_type": [
+            "cool base"
+        ],
+        "image": "1769615368056-806144597.jpg",
+        "author": {
+            "name": "noe",
+            "tag": "#000000"
+        }
+    }
+]
